@@ -1,0 +1,3 @@
+This is naive rfc2047 decoder.  It does not attempt to be complete.
+I would love for it to be, but do not have time to do so.
+It only serves the purpose of being able to display emails from my cousin Kärsten correctly in my homebrew imap client.
